@@ -10,3 +10,6 @@ response.
 2. Store the extracted text as embeddings in a vector database (e.g., FAISS, Pinecone).
 3. Retrieve relevant content from the vector DB based on a query.
 4. Use a language model to generate a response using the retrieved data.
+
+### Note 
+- Replace YOUR_GOOGLE_API_KEY in run.py with your actual API key.
